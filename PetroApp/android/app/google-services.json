@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "615630753332",
+    "project_id": "petroapp-2438",
+    "storage_bucket": "petroapp-2438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615630753332:android:773a234c094be07c0e0461",
+        "android_client_info": {
+          "package_name": "fspo.itmo.y2438.petroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615630753332-3d1cr3k4rshv7r353vajgk7dhi0oc8r1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fspo.itmo.y2438.petroapp",
+            "certificate_hash": "adf9a6cdedf91a55ea1089be3180e488665e2c6a"
+          }
+        },
+        {
+          "client_id": "615630753332-iq3ncem3j249b0ufi9o830kq718n3aj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLX6j8BDpmPCX8iIfBTkn3Kx4PVKOXSyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615630753332-iq3ncem3j249b0ufi9o830kq718n3aj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
